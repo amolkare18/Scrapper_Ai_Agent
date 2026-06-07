@@ -10,6 +10,11 @@ class Product:
     currency:str=""
     rating:float=None
     is_sponsered:bool=False
+    image_url:str=""
+    review_count:int=0
+    discount_percent:float=0.0
+    seller_name:str=""
+    availability_status:str="In Stock"
 
     def __post_init_(self):
         for field in fields (self):

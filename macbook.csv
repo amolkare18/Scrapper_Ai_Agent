@@ -1,22 +1,30 @@
-name,product_title,product_url,current_price,original_price,currency,rating,is_sponsered
-B08HHNXW8Y,"Apple 2020 MacBook Pro with 2.0GHz Intel Core i5, 13-inch, 16GB RAM, 512GB SSD Storage - Space Gray (Renewed)",,0.0,0.0,,4.0,False
-B0F3ZH6LW3,Apple,,0.0,0.0,,5.0,False
-B0FZXZ942V,Apple,,0.0,0.0,,0.0,False
-B08BNMNL5J,"Apple Early 2020 MacBook Air with 1.1GHz Intel Core i3, 13-inch, 8GB RAM, 256GB SSD Storage, Gold (Renewed)",,0.0,0.0,,3.7,False
-B08376JQLJ,"New Apple MacBook Pro (13-inch, 8GB RAM, 256GB Storage) - Space Gray (Renewed)",,0.0,0.0,,3.8,False
-B07JB2C4RZ,"Apple 15.4in MacBook Pro Laptop (Retina, Touch Bar, 2.6GHz 6-Core Intel Core i7, 16GB RAM, 512GB SSD Storage) Space Gray (MR942LL/A) (2018 Model) (Renewed)",,62805.15,62805.15,INR,3.8,False
-B07CCM5X58,"Apple MacBook Air MJVM2LL/A 11.6-Inch Laptop (1.6 GHz Intel Core i5, 128 GB Hard Drive, Integrated Intel HD Graphics 6000, Mac OS X 10.10 Yosemite) (Renewed)",,0.0,0.0,,4.0,False
-B08HHNXW8Y,"Apple 2020 MacBook Pro with 2.0GHz Intel Core i5, 13-inch, 16GB RAM, 512GB SSD Storage - Space Gray (Renewed)",,0.0,0.0,,4.0,False
-B0F3ZH6LW3,Apple,,0.0,0.0,,5.0,False
-B0FZXZ942V,Apple,,0.0,0.0,,0.0,False
-B08BNMNL5J,"Apple Early 2020 MacBook Air with 1.1GHz Intel Core i3, 13-inch, 8GB RAM, 256GB SSD Storage, Gold (Renewed)",,0.0,0.0,,3.7,False
-B0FZXV7GS5,Apple,,0.0,0.0,,0.0,False
-B07JB2C4RZ,"Apple 15.4in MacBook Pro Laptop (Retina, Touch Bar, 2.6GHz 6-Core Intel Core i7, 16GB RAM, 512GB SSD Storage) Space Gray (MR942LL/A) (2018 Model) (Renewed)",,63285.36,63285.36,INR,3.8,False
-B0F22JJVMT,Apple,,0.0,0.0,,4.6,False
-B08HHNXW8Y,"Apple 2020 MacBook Pro with 2.0GHz Intel Core i5, 13-inch, 16GB RAM, 512GB SSD Storage - Space Gray (Renewed)",,0.0,0.0,,4.0,False
-B0F3ZH6LW3,Apple,,0.0,0.0,,5.0,False
-B0FZXZ942V,Apple,,0.0,0.0,,0.0,False
-B0FZXV7GS5,Apple,,0.0,0.0,,0.0,False
-B08BNMNL5J,"Apple Early 2020 MacBook Air with 1.1GHz Intel Core i3, 13-inch, 8GB RAM, 256GB SSD Storage, Gold (Renewed)",,0.0,0.0,,3.7,False
-B07JB2C4RZ,"Apple 15.4in MacBook Pro Laptop (Retina, Touch Bar, 2.6GHz 6-Core Intel Core i7, 16GB RAM, 512GB SSD Storage) Space Gray (MR942LL/A) (2018 Model) (Renewed)",,63285.36,63285.36,INR,3.8,False
-B0F22JJVMT,Apple,,0.0,0.0,,4.6,False
+name,product_title,product_url,current_price,original_price,currency,rating,is_sponsered,image_url,review_count,discount_percent,seller_name,availability_status
+B0GV1GX1F7,Apple,,0.0,0.0,$,5.0,False,https://m.media-amazon.com/images/I/61PfWcnielL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GR6F8HXV,Apple,,0.0,0.0,$,4.7,False,https://m.media-amazon.com/images/I/61Jgoj4Sc+L._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GT6GWG36,"13-inch MacBook Air (M5): 24GB Memory, 512GB SSD - Midnight",,0.0,0.0,$,5.0,False,https://m.media-amazon.com/images/I/71hplUzm3RL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GYZWRQMH,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/61PfWcnielL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B08HM4BC6L,"2020 Apple MacBook Pro with 1.4 GHZ, Intel Core i5 (MXK52LLA, 13 Inches, 8GB RAM, 512GB SSD, Magic Keyboard) - Space Gray (Renewed)",,0.0,0.0,$,3.8,False,https://m.media-amazon.com/images/I/61n37aurJPL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GYZKZ2WX,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/6112T6g2P-L._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GX78S7QQ,Apple,,0.0,0.0,$,5.0,False,https://m.media-amazon.com/images/I/71wBoh636OL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0FWD5MR3L,Apple,,0.0,0.0,$,4.7,False,https://m.media-amazon.com/images/I/61qzZUkfYjL._AC_UY218_.jpg,0,0.0,This product has sustainability features recognized by trusted certifications.,In Stock
+B0GV1L6Z8Y,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/61PfWcnielL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0FZXV7GS5,Apple,,0.0,0.0,$,5.0,False,https://m.media-amazon.com/images/I/51BpuUfFNLL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0FB7YVM3Q,"Apple 2021 MacBook Pro with Apple M1 Pro Chip (16-inch, 32GB RAM, 1TB SSD Storage) Space Gray (Renewed)",,105844.21,105844.21,INR,4.2,False,https://m.media-amazon.com/images/I/51WMLWYDe8L._AC_UY218_.jpg,0,0,Amazon,In Stock
+B07NPTCNSG,"Apple MacBook Air (13-inch Retina display, 1.6GHz dual-core Intel Core i5, 128GB) - Space Gray (Renewed)",,279.0,279.0,$,3.9,False,https://m.media-amazon.com/images/I/51dafnlz6wL._AC_UY218_.jpg,0,0,Amazon,In Stock
+B09BK21GFW,"Apple 2020 MacBook Air with 1.1GHz Intel Core i3, 13-inch, 8GB RAM, 128GB SSD Storage Space Gray (Renewed)",,287.0,287.0,$,3.7,False,https://m.media-amazon.com/images/I/614cRebMvmL._AC_UY218_.jpg,0,0,Amazon,In Stock
+B0F55N88FQ,"Apple 2025 MacBook Air with Apple M4 chip, 15-inch, 16GB Unified Memory, 256GB SSD Storage, Sky Blue (Renewed)",,849.0,849.0,$,4.6,False,https://m.media-amazon.com/images/I/71O4wu8K6wL._AC_UY218_.jpg,0,0,Amazon,In Stock
+B0BSY1VJFQ,"2022 Apple MacBook Air with Apple M2 Chip (13-inch, 8GB RAM, 512GB SSD Storage) (QWERTY English) Space Gray (Renewed)",,669.47,669.47,$,4.4,False,https://m.media-amazon.com/images/I/71f5Eu5lJSL._AC_UY218_.jpg,0,0,Amazon,In Stock
+B0CX24BNQC,Apple,,1299.0,1299.0,$,4.8,False,https://m.media-amazon.com/images/I/71YG+VrvrTL._AC_UY218_.jpg,0,0,This product has sustainability features recognized by trusted certifications.,In Stock
+B082P8N4KJ,"Apple MacBook Pro Late 2019 with 2.6GHz Intel Core i7 (16 inch, 16GB RAM, 512GB) Space Gray (Renewed)",,399.0,399.0,$,3.9,False,https://m.media-amazon.com/images/I/61cEe0sO6JL._AC_UY218_.jpg,0,0,Amazon,In Stock
+B09WQ36NF1,"Late 2020 Apple MacBook Air with Apple M1 Chip (13.3 inch, 8GB RAM, 128GB SSD) Space Gray (Renewed)",,383.0,383.0,$,4.1,False,https://m.media-amazon.com/images/I/41DeT328kPL._AC_UY218_.jpg,0,0,Amazon,In Stock
+B01LTHXAEU,Apple,,1984.57,1984.57,$,3.8,False,https://m.media-amazon.com/images/I/61XupUGMB7L._AC_UY218_.jpg,0,0,This product has sustainability features recognized by trusted certifications.,In Stock
+B0GZ8F4HCS,"Apple MacBook Pro 2024, Apple M4 Chip with 10‑core CPU and 10‑core GPU (14-inch, 16GB RAM, 512GB SSD Storage) (QWERTY English) Silver (Renewed Premium)",,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/21Msf71qkyL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GTRQ186X,Apple,,0.0,0.0,$,1.0,False,https://m.media-amazon.com/images/I/71wBoh636OL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0D6XJ9747,"Apple 2024 MacBook Air with Apple M3 Chip (15-inch, 16GB RAM, 512GB SSD Storage) (QWERTY English) Midnight (Renewed)",,0.0,0.0,$,4.7,False,https://m.media-amazon.com/images/I/71O14N5GYLL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GV5JT46K,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/6112T6g2P-L._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GZSF9JGS,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/6112T6g2P-L._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B08376JQLJ,"New Apple MacBook Pro (13-inch, 8GB RAM, 256GB Storage) - Space Gray (Renewed)",,0.0,0.0,$,3.8,False,https://m.media-amazon.com/images/I/51ellgSYmxL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0FZX99G8N,"Late 2021 Apple MacBook Pro with Apple M1 Pro chip (16 inch, 32GB RAM, 1TB SSD) Silver (Renewed)",,0.0,0.0,$,5.0,False,https://m.media-amazon.com/images/I/31UZQm1EqmL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0H3M93KKZ,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/61NLFZhazOL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GSXBTYK2,"(CTO) Apple 13-inch MacBook Air: M5 chip w 10-core CPU - 10-core GPU, 16GB, 512GB, Midnight, 40W - Z1L6000RP - (2026)",,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/71pkfQGcMKL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
+B0GZ4XF96C,Apple,,0.0,0.0,$,0.0,False,https://m.media-amazon.com/images/I/61PfWcnielL._AC_UY218_.jpg,0,0.0,Amazon,In Stock
